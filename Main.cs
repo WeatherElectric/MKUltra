@@ -3,7 +3,7 @@
 public class Main : MelonMod
 {
     internal const string Name = "MKUltra";
-    internal const string Description = "Supreme Torture";
+    internal const string Description = "How much longer until you break?";
     internal const string Author = "SoulWithMae";
     internal const string Company = "Weather Electric";
     internal const string Version = "1.0.0";
