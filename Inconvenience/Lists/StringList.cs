@@ -4,7 +4,7 @@ namespace MKUltra.Inconvenience.Lists;
 
 public class StringList
 {
-	private readonly List<string> Items = new()
+	private readonly List<string> _items = new()
 	{
 		#region my stuff
 		"System.NullReferenceException: Object reference not set to an instance of an object.",
@@ -493,24 +493,24 @@ public class StringList
 		#endregion
 	};
 	
-	private readonly List<string> UsedItems = new();
+	private readonly List<string> _usedItems = new();
 		
 	public string GetString()
 	{
-		if (Items.Count == 0)
+		if (_items.Count == 0)
 		{
-			if (UsedItems.Count == 0)
+			if (_usedItems.Count == 0)
 			{
 				MelonLogger.Error("Somehow, both lists are empty.");
 			}
-			Items.AddRange(UsedItems);
-			UsedItems.Clear();
+			_items.AddRange(_usedItems);
+			_usedItems.Clear();
 		}
 		var rand = new Random();
-		var randomIndex = rand.Next(0, Items.Count);
-		var selectedItem = Items[randomIndex];
-		Items.RemoveAt(randomIndex);
-		UsedItems.Add(selectedItem);
+		var randomIndex = rand.Next(0, _items.Count);
+		var selectedItem = _items[randomIndex];
+		_items.RemoveAt(randomIndex);
+		_usedItems.Add(selectedItem);
 		return selectedItem;
 	}
 }

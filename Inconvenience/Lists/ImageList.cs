@@ -4,7 +4,7 @@ namespace MKUltra.Inconvenience.Lists;
 
 public class ImageList
 {
-    private readonly List<string> Items = new()
+    private readonly List<string> _items = new()
     {
         "alcoholic.png",
         "byeah.png",
@@ -50,25 +50,25 @@ public class ImageList
         "toothpaste.png"
     };
 
-    private readonly List<string> UsedItems = new();
+    private readonly List<string> _usedItems = new();
     
     public byte[] GetImage()
     {
-        if (Items.Count == 0)
+        if (_items.Count == 0)
         {
-            if (UsedItems.Count == 0)
+            if (_usedItems.Count == 0)
             {
                 MelonLogger.Error("Somehow, both lists are empty.");
             }
-            Items.AddRange(UsedItems);
-            UsedItems.Clear();
+            _items.AddRange(_usedItems);
+            _usedItems.Clear();
         }
         var rand = new Random();
-        var randomIndex = rand.Next(0, Items.Count);
-        var selectedItem = Items[randomIndex];
+        var randomIndex = rand.Next(0, _items.Count);
+        var selectedItem = _items[randomIndex];
         var bytes = HelperMethods.GetResourceBytes(Main.CurrAsm, selectedItem);
-        Items.RemoveAt(randomIndex);
-        UsedItems.Add(selectedItem);
+        _items.RemoveAt(randomIndex);
+        _usedItems.Add(selectedItem);
         return bytes;
     }
 }
