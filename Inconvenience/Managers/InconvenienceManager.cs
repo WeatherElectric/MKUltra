@@ -1,6 +1,4 @@
 ﻿using BoneLib.RandomShit;
-using MKUltra.Inconvenience.Lists;
-using MKUltra.Melon;
 using Random = UnityEngine.Random;
 
 namespace MKUltra.Inconvenience.Managers;
@@ -9,6 +7,7 @@ namespace MKUltra.Inconvenience.Managers;
 public class InconvenienceManager : MonoBehaviour
 {
     public static InconvenienceManager Instance { get; private set; }
+    
     private void Start()
     {
         DontDestroyOnLoad(gameObject);

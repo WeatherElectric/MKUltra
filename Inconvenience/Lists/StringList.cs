@@ -53,8 +53,6 @@ internal static class StringList
 		"My strainer keeps leaking anyone know any fixes?",
 		"Out here on my rotting shit I’m decaying straight up decrepit in here we decomposing tonight",
 		"urinal cakes \ud83d\ude0b",
-		// https://discord.com/channels/563139253542846474/869682778843783258/1161859445152829510
-		"my VR games? PHYSICS BASED\nmy phones? ANDROID\nmy operating system? LINUX\nmy rendering engine? CYCLES\nmy game engine? UNREAL\nmy twitter? LURKING\nmy albums? VINYL\nmy music? CRUNCHY\nmy rap? MODERN\nmy horror? REALISTIC\nmy depictions of psychosis in movies? REALISTIC\nmy metal? 70S\nmy ships? WHOLESOME \nmy guns? MECHANICAL\nmy tv shows? GRITTY\nmy robotic villains in movies and tv? FUELED BY HATRED\nmy laptop? CUSTOM\nmy watch? MILITARY\nmy eq? BASSY\nmy lightbakes? Line 215 in Verify - Geometry geom c4fab7362f4dc00cea6f77d7ddf7f9cb: Index 45 has value 41 that reads non-finite value nan in channel 4, element 0\nmy movies? CHARACTER DRIVEN\nmy characters? RELATABLE\nmy car? FLAT EDGED\nmy liquor? BLAND\nmy root beer? ROUND\nmy spaces? LIMINAL\nmy godzillas? VIOLENT\nmy dinosaurs? FEATHERED\nmy electro? FRENCH\nmy clowns? CLASSICAL\nmy shirts? VINYL PRINTED\nmy spiders? HARMLESS\nmy mental state? BORDERING ON HOMICIDAL\nmy deoderant? SUBTLE\nmy diving boards? HIGH\nmy pool tables? BLACKLIT\nmy security system? VINTAGE\nmy ability to type the worst shit known to mankind? STRONG\nmy cloaked? HAISE\nmy novels? OUT OF ORDER\nmy hitchikers? GUIDED THROUGH THE GALAXY\nmy dungeon crawlers? PROCEDURAL\nmy burgers? NOTHING\nmy twitter follows? CONTREVERSIAL\nmy edibles? AINT SHIT\nmy drugs? NON ADDICTIVE\nmy bank account? WEALTHY\nmy energy drinks? LIGHT AND DRAWN OUT\nmy text? WALLS\nmy sci-fi? ELABORATE\nmy steam? PUNK\nmy sniper rifles? LIGHT AND AFFORDABLE",
 		"You can’t dereference null. The runtime will throw an exception and stop execution at that point. You must catch the exception to continue execution or print the details of the exception.",
 		"MK Ultra.",
 		"Killed by drones!",
@@ -95,10 +93,12 @@ internal static class StringList
 		"princess di is wearing a new dress",
 		"i'll drink to that",
 		"will you bite the hand that feeds?",
+		"we'll throw the baby out with the bathwater",
+		"man the shit i've seen back in the revolutions\nso many of them.\ncan we just nuke the world already?",
+		"dont ever trust cam with a bomb, fucker will send you right into the map hazard",
 		#endregion
 		#region stargrid quotes
 		"*chuckles* **Your worst nightmare.**",
-		"we gotta get more cool guy quotes in this list",
 		"Stop fucking say I'm alt",
 		"Reminds me of Kevin the cube in Fortnite \ud83d\ude05",
 		"Foed vs nulbody who wins",
@@ -113,10 +113,14 @@ internal static class StringList
 		"Yes I'm not a kid that was a joke",
 		"what isn't wrong with me",
 		"the slander of my son",
-		"Actual texture files?",
+		"Actual texture files?", // so true
 		"does what",
 		"Godot.exe",
 		"KIl\n Y s",
+		"i'm not one for racism but he's got a point",
+		"lets have a debate on whos more into cp",
+		"im just sayin ur bio screams groom me", // FUCKIN TRUE! WITH THE CONTEXT? SO TRUE!
+		"Not funny. I didn't laugh. Your joke is so bad I would have preferred the joke went over my head and you gave up re-telling me the joke. To be honest this is a horrible attempt at trying to get a laugh out of me. Not a chuckle, not a hehe, not even a subtle burst of air out of my esophagus. Science says before you laugh your brain preps your face muscles but I didn't even feel the slightest twitch. 0/10 this joke is so bad I can't believe anyone legally allowed you to be creative at all. The amount of brain power you must have put into that joke has the potential to power every house on Earth. Get a personality and learn how to make jokes, read a book. I'm not saying this to be funny i genuinely mean it on how this is just bottom barrel embarrassment at comedy. You've single handedly killed humor and every comedic act on the planet. I'm so disappointed that society has failed as a whole in being able to teach you how to be funny. Honestly if I put in all my power and time to try and make your joke funny it would require Einstein himself to build a device to strap me into so I can be connected to the energy of a billion stars to do it, and even then all that joke would get from people is a subtle scuff. You're lucky i still have the slightest of empathy for you after telling that joke otherwise I would have committed every war crime in the book just to prevent you from attempting any humor ever again. We should put that joke in text books so future generations can be wary of becoming such an absolute comedic failure. Im disappointed, hurt, and outright offended that my precious time has been wasted in my pathetic brain understanding that joke. In the time that took i was planning on helping kids who have been orphaned, but because of that you've wasted my time explaining the obscene integrity of your terrible attempt at comedy. Now those kids are suffering with out meals and there's nobody to blame but you. I hope you're happy with what you have done.",
 		#endregion
 		#region mod.io tapeworms
 		"she is a child predator",
@@ -131,12 +135,10 @@ internal static class StringList
 		#region the creatures
 		"YEAH SUCK IT SUCK IT GOOD BABEYY!!!",
 		"he looks his wife impregnated him",
-		"Who that goofy ass looking kid? Is that Ham?",
 		"https://cdn.discordapp.com/attachments/980886499002318928/1131477573008887838/image.png",
 		"all i do with my life is bone trees...",
 		"HAVE A SLUTTY 💦🍆👅DICKMAS YOU HOE HOE HOE!!! 🎅🏾🎅🏿🎅🏽🎅🏼",
 		"https://cdn.discordapp.com/attachments/1011126494015262720/1145431295355269291/TF-yHFPKzxn_bfOQ.png",
-		"aw man i gotta fart really loud - nexus 2023",
 		"everytime i scroll down, its just his MEAT.",
 		"mmmm butthole...",
 		"ugh can you SHUT UP ALREADY? shakes butt...",
@@ -194,7 +196,7 @@ internal static class StringList
 		"they call me a tv network cause i serialize murder",
 		"smoking dick",
 		"fuck you if youre from the midwest theres a reason they call it the MIDwest, cause everything there is MID the food, the 'culture', the people all MID.",
-		"this mod is only 8 GB without all these strings btw",
+		"this mod is only 8 GB without all these strings btw\n(this is not true in this case, this is from BW chaos)",
 		"amazon did a great job of making people think shipping is both a trivial cost and trivially easy to make fast.",
 		"The Industrial Revolution and its consequences have been a disaster for the human race. They have greatly increased the life-expectancy of those of us who live in “advanced” countries, but they have destabilized society, have made life unfulfilling, have subjected human beings to indignities, have led to widespread psychological suffering (in the Third World to physical suffering as well) and have inflicted severe damage on the natural world. The continued development of technology will worsen the situation. It will certainly subject human beings to greater indignities and inflict greater damage on the natural world, it will probably lead to greater social disruption and psychological suffering, and it may lead to increased physical suffering even in “advanced” countries", // kaczynski really fancied himself a fucking literary masterpiece huh. what a nutjob, thesaurus.com is a public resource man.
 		"kopunit",
@@ -351,6 +353,9 @@ internal static class StringList
 		#endregion
 		#region bonelab server
 		"this shit aint nothin to me man\ni'm him, i was him, i'll continue to be him\nsmoking that \"counting all the sheep in the sky, caught up in a whirl of lies\" type pack\nsmoking not just the leaf, we smoke the whole vineyard\nput holy water in the bong, blowing god's bubbles\ni could go blind and i don't care, i don't need to see the price tag\nopps must have amnesia, they forgot i'm him\nchuck e cheese simpsons themed coin pusher pack\nsnorting that glowing rock on the wizard staff shit \ni must be a penguin the way i slide in dms\ncall me tommy, the way i'm waisea with u(r) girl\nshe a baddie to the point that michael jackson lost platinum\nrobert eggars had to call me up, cause my blunts the size of a lighthouse\njesus take the wheel, cause i'm busy making calls\nthese hoes on me so much, i might have to become a farm supply\ni put the color back into monotone\nDB cooper dissapeared, like the opps when i pulled out the switch blicky\nshit banged so hard that asia used it as the model for what you know as a gong\nsmoking that radioactive steam combustion engine pack\nthat purple like the combination of what would be otherwise invisible frequencies on the light spectrum\nthat purple out-purpled grimace mixed with the purple guy\nshit so purple scientists are theorizing on how the human eye has enough rods to process it\nsmoking that radioactive core of plutonium surrounded by 23.3 pounds of titanium carved into a half dome\nthis shit aint nothing to me man",
+		"This account was an experiment lol\nAsterix_ has an average dislike to like % of 93.75\nOragani has an average of 81%\n\nThe whole point of this account was to see if complaints about my mods were purely cause it was connected to the name Oragani and I was 100% right.\nMade pretty much the same types of mods, put in the same effort, same quality, etc. Never got a performance complaint, quality complaint, never got a lot of dislikes on majority of my mods.\n\nI'm gonna go back to modding on my main :ThumbsUp:",
+		// https://discord.com/channels/563139253542846474/869682778843783258/1161859445152829510
+		"my VR games? PHYSICS BASED\nmy phones? ANDROID\nmy operating system? LINUX\nmy rendering engine? CYCLES\nmy game engine? UNREAL\nmy twitter? LURKING\nmy albums? VINYL\nmy music? CRUNCHY\nmy rap? MODERN\nmy horror? REALISTIC\nmy depictions of psychosis in movies? REALISTIC\nmy metal? 70S\nmy ships? WHOLESOME \nmy guns? MECHANICAL\nmy tv shows? GRITTY\nmy robotic villains in movies and tv? FUELED BY HATRED\nmy laptop? CUSTOM\nmy watch? MILITARY\nmy eq? BASSY\nmy lightbakes? Line 215 in Verify - Geometry geom c4fab7362f4dc00cea6f77d7ddf7f9cb: Index 45 has value 41 that reads non-finite value nan in channel 4, element 0\nmy movies? CHARACTER DRIVEN\nmy characters? RELATABLE\nmy car? FLAT EDGED\nmy liquor? BLAND\nmy root beer? ROUND\nmy spaces? LIMINAL\nmy godzillas? VIOLENT\nmy dinosaurs? FEATHERED\nmy electro? FRENCH\nmy clowns? CLASSICAL\nmy shirts? VINYL PRINTED\nmy spiders? HARMLESS\nmy mental state? BORDERING ON HOMICIDAL\nmy deoderant? SUBTLE\nmy diving boards? HIGH\nmy pool tables? BLACKLIT\nmy security system? VINTAGE\nmy ability to type the worst shit known to mankind? STRONG\nmy cloaked? HAISE\nmy novels? OUT OF ORDER\nmy hitchikers? GUIDED THROUGH THE GALAXY\nmy dungeon crawlers? PROCEDURAL\nmy burgers? NOTHING\nmy twitter follows? CONTREVERSIAL\nmy edibles? AINT SHIT\nmy drugs? NON ADDICTIVE\nmy bank account? WEALTHY\nmy energy drinks? LIGHT AND DRAWN OUT\nmy text? WALLS\nmy sci-fi? ELABORATE\nmy steam? PUNK\nmy sniper rifles? LIGHT AND AFFORDABLE",
 		#endregion
 		#region muse server
 		"tesco is shit but is great",
