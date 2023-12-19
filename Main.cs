@@ -28,6 +28,7 @@ public class Main : MelonMod
         LevelLoaded = true;
         if (InconvenienceManager.Instance != null) return;
         var go = new GameObject("Inconvenience Manager");
+        ModConsole.Msg("Created Inconvenience Manager since it did not exist before.", 1);
         go.AddComponent<InconvenienceManager>();
     }
 

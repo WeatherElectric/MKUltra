@@ -2,9 +2,9 @@
 
 namespace MKUltra.Inconvenience.Lists;
 
-internal static class StringList
+public class StringList
 {
-	private static readonly List<string> Items = new()
+	private readonly List<string> Items = new()
 	{
 		#region my stuff
 		"System.NullReferenceException: Object reference not set to an instance of an object.",
@@ -493,9 +493,9 @@ internal static class StringList
 		#endregion
 	};
 	
-	private static readonly List<string> UsedItems = new();
+	private readonly List<string> UsedItems = new();
 		
-	public static string GetString()
+	public string GetString()
 	{
 		if (Items.Count == 0)
 		{

@@ -40,13 +40,11 @@
         <Compile Include="Inconvenience\Lists\ImageList.cs" />
         <Compile Include="Inconvenience\Lists\StringList.cs" />
         <Compile Include="Inconvenience\Managers\InconvenienceManager.cs" />
+        <Compile Include="Inconvenience\Cleanup\TheJanitor.cs" />
         <Compile Include="Main.cs"/>
         <Compile Include="Melon\ModConsole.cs"/>
         <Compile Include="Melon\Preferences.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
-    </ItemGroup>
-    <ItemGroup>
-      <Folder Include="Inconvenience\" />
     </ItemGroup>
     <ItemGroup>
       <EmbeddedResource Include="Images\alcoholic.png" />

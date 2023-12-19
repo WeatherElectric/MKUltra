@@ -2,9 +2,9 @@
 
 namespace MKUltra.Inconvenience.Lists;
 
-internal static class ImageList
+public class ImageList
 {
-    private static readonly List<string> Items = new()
+    private readonly List<string> Items = new()
     {
         "alcoholic.png",
         "byeah.png",
@@ -50,9 +50,9 @@ internal static class ImageList
         "toothpaste.png"
     };
 
-    private static readonly List<string> UsedItems = new();
+    private readonly List<string> UsedItems = new();
     
-    public static byte[] GetImage()
+    public byte[] GetImage()
     {
         if (Items.Count == 0)
         {
