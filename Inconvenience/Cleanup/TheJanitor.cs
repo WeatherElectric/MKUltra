@@ -11,6 +11,7 @@ public class TheJanitor : MonoBehaviour
     private IEnumerator Despawn()
     {
         yield return new WaitForSeconds(15f);
+        ModConsole.Msg($"Janitor's cleaning {gameObject.name}", 1);
         Destroy(gameObject);
     }
     
