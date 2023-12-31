@@ -1,6 +1,7 @@
 ﻿namespace MKUltra.Inconvenience.Cleanup;
 
 [RegisterTypeInIl2Cpp]
+// i dont get paid enough for this shit - the janitor, probably
 public class TheJanitor : MonoBehaviour
 {
     private void Start()

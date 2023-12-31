@@ -16,11 +16,15 @@ public class Main : MelonMod
     public override void OnInitializeMelon()
     {
         CurrAsm = Assembly.GetExecutingAssembly();
+        // how much deception can you take?
         ModConsole.Setup(LoggerInstance);
         Preferences.Setup();
         BoneMenu.Setup();
+        // how many lies will you create?
         Hooking.OnLevelInitialized += OnLevelLoad;
         Hooking.OnLevelUnloaded += OnLevelUnload;
+        // your mind's about to fall
+        // and they're breaking through
     }
 
     private static void OnLevelLoad(LevelInfo levelInfo)
@@ -29,6 +33,7 @@ public class Main : MelonMod
         if (InconvenienceManager.Instance != null) return;
         var go = new GameObject("Inconvenience Manager");
         ModConsole.Msg("Created Inconvenience Manager since it did not exist before.", 1);
+        // go, be free, fuck over random people because I hate people
         go.AddComponent<InconvenienceManager>();
     }
 

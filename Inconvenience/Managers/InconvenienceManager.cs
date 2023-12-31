@@ -1,11 +1,9 @@
-﻿using BoneLib.RandomShit;
-using Harmony;
-using MKUltra.Inconvenience.Cleanup;
-using Random = UnityEngine.Random;
+﻿using Random = UnityEngine.Random;
 
 namespace MKUltra.Inconvenience.Managers;
 
 [RegisterTypeInIl2Cpp]
+// my child.
 public class InconvenienceManager : MonoBehaviour
 {
     public static InconvenienceManager Instance { get; private set; }
@@ -15,6 +13,7 @@ public class InconvenienceManager : MonoBehaviour
     
     private void Start()
     {
+        // fuck the player, this'll persist between scenes
         DontDestroyOnLoad(gameObject);
         ModConsole.Msg("Sent to DontDestroyOnLoad", 1);
         Instance = this;
@@ -29,6 +28,7 @@ public class InconvenienceManager : MonoBehaviour
             case true:
             {
                 MelonCoroutines.Start(QuestCoroutine());
+                // Damn kids ruining everything
                 ModConsole.Msg("Started QuestCoroutine", 1);
                 break;
             }

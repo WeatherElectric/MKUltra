@@ -7,6 +7,8 @@ global using MelonLoader;
 global using MKUltra.Melon;
 global using BoneLib.BoneMenu;
 global using BoneLib.BoneMenu.Elements;
+global using BoneLib.RandomShit;
+global using MKUltra.Inconvenience.Cleanup;
 global using UnityEngine;
 global using MKUltra.Menu;
 global using MKUltra.Inconvenience.Lists;

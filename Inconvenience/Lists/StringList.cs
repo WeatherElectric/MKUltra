@@ -96,6 +96,15 @@ public class StringList
 		"we'll throw the baby out with the bathwater",
 		"man the shit i've seen back in the revolutions\nso many of them.\ncan we just nuke the world already?",
 		"dont ever trust cam with a bomb, fucker will send you right into the map hazard",
+		"and we are losing control",
+        "so sorry you got fired, Cam",
+        "81 tonnes of shit will be dropped on your head.",
+        "This is your two minute warning.",
+        "Two minutes later.",
+        "and this is the end of the world",
+        "I just can't get enough\nI just can't get enough\nI just can't get enough\nI just can't get enough\nI just can't get enough\nI just can't get enough\nI just can't get enough\nI just can't get enough\nI just can't get enough\nI just can't get enough\nI just can't get enough\nI just can't get enough",
+        "They're lying to you!",
+        "Don't be a fool!",
 		#endregion
 		#region stargrid quotes
 		"*chuckles* **Your worst nightmare.**",
@@ -121,6 +130,8 @@ public class StringList
 		"lets have a debate on whos more into cp",
 		"im just sayin ur bio screams groom me", // FUCKIN TRUE! WITH THE CONTEXT? SO TRUE!
 		"Not funny. I didn't laugh. Your joke is so bad I would have preferred the joke went over my head and you gave up re-telling me the joke. To be honest this is a horrible attempt at trying to get a laugh out of me. Not a chuckle, not a hehe, not even a subtle burst of air out of my esophagus. Science says before you laugh your brain preps your face muscles but I didn't even feel the slightest twitch. 0/10 this joke is so bad I can't believe anyone legally allowed you to be creative at all. The amount of brain power you must have put into that joke has the potential to power every house on Earth. Get a personality and learn how to make jokes, read a book. I'm not saying this to be funny i genuinely mean it on how this is just bottom barrel embarrassment at comedy. You've single handedly killed humor and every comedic act on the planet. I'm so disappointed that society has failed as a whole in being able to teach you how to be funny. Honestly if I put in all my power and time to try and make your joke funny it would require Einstein himself to build a device to strap me into so I can be connected to the energy of a billion stars to do it, and even then all that joke would get from people is a subtle scuff. You're lucky i still have the slightest of empathy for you after telling that joke otherwise I would have committed every war crime in the book just to prevent you from attempting any humor ever again. We should put that joke in text books so future generations can be wary of becoming such an absolute comedic failure. Im disappointed, hurt, and outright offended that my precious time has been wasted in my pathetic brain understanding that joke. In the time that took i was planning on helping kids who have been orphaned, but because of that you've wasted my time explaining the obscene integrity of your terrible attempt at comedy. Now those kids are suffering with out meals and there's nobody to blame but you. I hope you're happy with what you have done.",
+		"We are jerkers and groomers and we jerk and we go on and we jerk and",
+		"A lego figure that randomly farts that works as an attatchment with rexmecks attatchments which you cannot take off your gun once you put on",
 		#endregion
 		#region mod.io tapeworms
 		"she is a child predator",
@@ -153,6 +164,7 @@ public class StringList
 		"You a furry pfp XD",
 		#endregion
 		#region copilot's bangers
+		// these were all fully written by copilot
 		"do you like my car",
 		"for the love of god and all that is holy my anus is bleeding",
 		"pewdiepie bridge incident",
@@ -357,6 +369,7 @@ public class StringList
 		// https://discord.com/channels/563139253542846474/869682778843783258/1161859445152829510
 		"my VR games? PHYSICS BASED\nmy phones? ANDROID\nmy operating system? LINUX\nmy rendering engine? CYCLES\nmy game engine? UNREAL\nmy twitter? LURKING\nmy albums? VINYL\nmy music? CRUNCHY\nmy rap? MODERN\nmy horror? REALISTIC\nmy depictions of psychosis in movies? REALISTIC\nmy metal? 70S\nmy ships? WHOLESOME \nmy guns? MECHANICAL\nmy tv shows? GRITTY\nmy robotic villains in movies and tv? FUELED BY HATRED\nmy laptop? CUSTOM\nmy watch? MILITARY\nmy eq? BASSY\nmy lightbakes? Line 215 in Verify - Geometry geom c4fab7362f4dc00cea6f77d7ddf7f9cb: Index 45 has value 41 that reads non-finite value nan in channel 4, element 0\nmy movies? CHARACTER DRIVEN\nmy characters? RELATABLE\nmy car? FLAT EDGED\nmy liquor? BLAND\nmy root beer? ROUND\nmy spaces? LIMINAL\nmy godzillas? VIOLENT\nmy dinosaurs? FEATHERED\nmy electro? FRENCH\nmy clowns? CLASSICAL\nmy shirts? VINYL PRINTED\nmy spiders? HARMLESS\nmy mental state? BORDERING ON HOMICIDAL\nmy deoderant? SUBTLE\nmy diving boards? HIGH\nmy pool tables? BLACKLIT\nmy security system? VINTAGE\nmy ability to type the worst shit known to mankind? STRONG\nmy cloaked? HAISE\nmy novels? OUT OF ORDER\nmy hitchikers? GUIDED THROUGH THE GALAXY\nmy dungeon crawlers? PROCEDURAL\nmy burgers? NOTHING\nmy twitter follows? CONTREVERSIAL\nmy edibles? AINT SHIT\nmy drugs? NON ADDICTIVE\nmy bank account? WEALTHY\nmy energy drinks? LIGHT AND DRAWN OUT\nmy text? WALLS\nmy sci-fi? ELABORATE\nmy steam? PUNK\nmy sniper rifles? LIGHT AND AFFORDABLE",
 		"people suck up so hard to brandons nipples like nooo bro that man milk is for ME ONLY :drooling_ahegao:",
+		"no, its stuck to my balls! - cam 2023",
 		#endregion
 		#region muse server
 		"tesco is shit but is great",
