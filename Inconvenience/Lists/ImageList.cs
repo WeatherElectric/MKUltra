@@ -18,7 +18,6 @@ public class ImageList
         "dog2.png",
         "donald.png",
         "eclipse.jpg",
-        "eggs.png",
         "EPICCAT.jpg",
         "firehat.png",
         "gallium.png",

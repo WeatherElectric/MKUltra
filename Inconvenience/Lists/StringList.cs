@@ -105,6 +105,12 @@ public class StringList
         "I just can't get enough\nI just can't get enough\nI just can't get enough\nI just can't get enough\nI just can't get enough\nI just can't get enough\nI just can't get enough\nI just can't get enough\nI just can't get enough\nI just can't get enough\nI just can't get enough\nI just can't get enough",
         "They're lying to you!",
         "Don't be a fool!",
+        "do it stink?",
+        "oh my god, we're doomed!",
+        "I had a wife, but they took her in the divorce.",
+        "HELLO, GORDON!",
+        "oksex",
+        "HOTTED BOOBS UP AHEAD, TITS, BIG ONES!",
 		#endregion
 		#region stargrid quotes
 		"*chuckles* **Your worst nightmare.**",
@@ -142,26 +148,6 @@ public class StringList
 		"how did you get bone menu? i belive its for BONELAB fusion, no its from bonelib",
 		"Oh also change your discord wall lmao",
 		"i bag you can you pls make a 1977 camaro",
-		#endregion
-		#region the creatures
-		"YEAH SUCK IT SUCK IT GOOD BABEYY!!!",
-		"he looks his wife impregnated him",
-		"https://cdn.discordapp.com/attachments/980886499002318928/1131477573008887838/image.png",
-		"all i do with my life is bone trees...",
-		"HAVE A SLUTTY 💦🍆👅DICKMAS YOU HOE HOE HOE!!! 🎅🏾🎅🏿🎅🏽🎅🏼",
-		"https://cdn.discordapp.com/attachments/1011126494015262720/1145431295355269291/TF-yHFPKzxn_bfOQ.png",
-		"everytime i scroll down, its just his MEAT.",
-		"mmmm butthole...",
-		"ugh can you SHUT UP ALREADY? shakes butt...",
-		"When people say hi, I just drop like... 30 slurs.",
-		"how would you like to go live with the chinese government?",
-		"whats up guys!!!! :SteamHappy:",
-		"if i ever get voted for president\neveryone gets footjobs",
-		"angry cock",
-		"pawjob under table 🤤",
-		"Grab these vehicles: Bravado Banshee, Inverto Coqquette, Ubermacht Sentinel, Benefactor Dubsta, Pegasi Infernus.",
-		"i'd shit on your brother",
-		"You a furry pfp XD",
 		#endregion
 		#region copilot's bangers
 		// these were all fully written by copilot
@@ -385,7 +371,8 @@ public class StringList
 		"dickpression",
 		"man i wish i knew those frameworks please take my bussy I WANT A FUCKING PENIS",
 		#endregion
-		#region fordkiller
+		// honestly these are lame as hell in game.
+		/* #region fordkiller
 		"wtf why not quheust!!!",
 		"i hat eoyu becaus not quest",
 		"mak quest plsszz",
@@ -488,7 +475,7 @@ public class StringList
 		"seriously, im so tired of finding mods that dont have quest vrison. it's just ridiculous.",
 		"i would love to play this mod on my Oculus, but no quest vrison means nothin doin. im so pissed.",
 		"this mod is such a disappointment without a quest vrison. i was really lookin foward to playing theis mod but you ar too stupuid to make quest verion.",
-		#endregion
+		#endregion */
 		#region bruno powroznik
 		"OBJECTS IVE SHOVED UP MY ARSE",
 		"I REALLY HATE SIMON FUCKING COWELL",
@@ -503,7 +490,15 @@ public class StringList
 		"VIBRATORS",
 		"MARGARET THATCHER IS DEAD",
 		"DING DONG THE WICKED BITCH IS DEAD",
-		"ITS A SHAME THE BITCH DIDNT DIE 87 YEARS AGO"
+		"ITS A SHAME THE BITCH DIDNT DIE 87 YEARS AGO",
+		#endregion
+		#region dingus
+		"They shot our face, Johnny! THEY SHOT OUR FACE!",
+		"Who up tugging they gooch",
+		"rabbit — 01/01/2024 4:24 AM\nPrepare ur. Grave.  [EXTREMELYLOUDINCORRECTBUZZER]",
+		"I got a big AR this’ll turn you to piss",
+		"Trailer 1\nTuesday, December 5th\n9AM ET",
+		"YSL cologne bitch, this not Axe"
 		#endregion
 	};
 	

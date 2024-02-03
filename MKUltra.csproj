@@ -59,7 +59,6 @@
       <EmbeddedResource Include="Images\dog2.png" />
       <EmbeddedResource Include="Images\donald.png" />
       <EmbeddedResource Include="Images\eclipse.jpg" />
-      <EmbeddedResource Include="Images\eggs.png" />
       <EmbeddedResource Include="Images\EPICCAT.jpg" />
       <EmbeddedResource Include="Images\firehat.png" />
       <EmbeddedResource Include="Images\gallium.png" />
