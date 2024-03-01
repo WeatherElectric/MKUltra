@@ -23,7 +23,6 @@ public class StringList
 		"shut up",
 		"all i ever wanted, all i ever needed, is here in my arms",
 		"Oh yeah, what we're living in (let me tell ya)\nIt's a wonder that man can eat at all\nWhen things are big that should be small\nWho can tell what magic spells we'll be doing for us\nAnd I'm giving all my love to this world\nOnly to be told\nI can't see\nI can't breathe\nNo more will we be\nAnd nothing's going to change the way we live\nCos' we can always take but never give\nAnd now that things are changing for the worse\nSee, Whaaa, it's a crazy world we're living in\nAnd I just can't see that half of us immersed in sin\nIs all we have to give these -\n\n[Chorus]\nFutures made of virtual insanity\nnow Always seem to, be\ngovern'd by this love we have\nFor useless, twisting, all our new\ntechnology Oh, now there is no\nsound - for we all live underground\n\nAnd I'm thinking what a mess we're in\nHard to know where to begin\nIf I could slip the sickly ties that earthly man has made\nAnd now every mother, can choose the colour\nOf her child\nThat's not natures way\nWell that's what they said yesterday\nThere's nothing left to do but pray\nI think it's time I found a new religion\nWaoh - it's so insane\nTo synthesize another strain\nThere's something in these\nFuture's that we have to be told\n\n[Chorus]\n\nNow there is no sound\nIf we all live underground\nAnd now it's virtual insanity\nForget your virtual reality\nOh, there's nothing so bad,\nI know yeah\n\nInstrumental break\n(chours)\n\nOf this virtual insanity, we're livin' in,\nHas got to change, yeah\nThings, will never be the same,\nAnd I can't go on\nWhile we're livin' in oh,\noh virtual insanity\nOh, this world, has got to change\nCos I just, I just can't keep\ngoing on, it was virtual,\nVirtual insanity that we're livin' in,\nthat we're livin' in\nThat virtual insanity is what it is\n\n[Chorus]\n\nLiving - Virtual Insanity\nLiving - Virtual Insanity\nLiving - Virtual Insanity\nLiving - Virtual Insanity\n\nVirtual insanity is what we're living in",
-		"for if we don't find the next whiskey bar, i tel you we must die",
 		"save me",
 		"XBOX LIVE",
 		"Fuck you",
@@ -32,11 +31,9 @@ public class StringList
 		"Shit someone wants to report you to the police",
 		"Fortnite",
 		"So true...",
-		"my friends are arguing over chewing ice cream vs licking ice cream",
 		"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
 		"Obama.",
 		"God help us all",
-		"THIS IS LIKE THAT ONE GAME!",
 		"An animal, you're an animal\nDon't take anything less\nOut of control, you're out of control\nStrike those in distress\nAnalyze, advertise, expand\nBend more rules\nAnd buy yourself an island\nAnimals, we're animals\nBuy when blood is on the street\nOut of control, we're out of control\nCrush those who beg at your feet\nAnalyze, franchise, spread out\nKill the competition\nAnd buy yourself an ocean\nAmortize, downsize, lay off\nKill yourself\nCome on and do us all a favor",
 		"kitty kitty kitty kitty kitty touch it",
 		// https://cdn.discordapp.com/attachments/869682778843783258/1163042308665643058/1p88awabj7tb1.png
@@ -65,15 +62,13 @@ public class StringList
 		"I want you to hit me as hard as you can",
 		"the melody of the blue wrath - i monster",
 		"what do you do if eat food the cold oven is hot?",
-		"https://cdn.discordapp.com/attachments/752394707237208106/1146676518051921982/IMG_3728.png",
 		"ShitList.cs",
 		"[21:52:27.330] [The_Annoyance] [ERROR] Unhandled exception in coroutine. It will not continue executing.\nSystem.TypeInitializationException: The type initializer for 'CampaignEnhancer.Internal.ShitList' threw an exception. ---> System.NullReferenceException: Object reference not set to an instance of an object\r\n  at CampaignEnhancer.Internal.ShitList..cctor () [0x002eb] in <87025d85c41846038c0bac1a282601c9>:0 \r\n   --- End of inner exception stack trace ---\r\n  at CampaignEnhancer.Main.Annoy () [0x0000f] in <87025d85c41846038c0bac1a282601c9>:0 \r\n  at Jevil.Waiting.CallDelayed+<WaiterUnity>d__2.MoveNext () [0x00089] in <2a874ecfbca34a07947f4a5432d3d4ac>:0 \r\n  at MelonLoader.Support.MonoEnumeratorWrapper.MoveNext () [0x00018] in <ac3025e664cb4f81bf7a238b8d77125e>:0 ",
-		"one of my friends is eating pure fucking ranch, licking it up like an ANIMAL",
+		"fuck you in particular, you know who you are",
 		@"I:\Steam\steamapps\common\BONELAB\BONELAB_Steam_Windows64_Data\StreamingAssets\aa\catalog.json",
 		"leg is playing Call of Duty",
 		"FUCK OFF RIDER I KNOW WHAT A LIST IS",
 		"https://cdn.discordapp.com/attachments/1112106135508504769/1155182650194153472/fastmanwithaxesgoingsuperhaywire-1.gif",
-		"EAT THE CHICKEN",
 		"hi adam!",
 		"look outside your window",
 		"BoneLib.RandomShit.PopupBoxManager.CreateNewPopupBox(ShitList.GrabFromShitlist())",
@@ -112,6 +107,8 @@ public class StringList
         "oksex",
         "HOTTED BOOBS UP AHEAD, TITS, BIG ONES!",
 		#endregion
+		
+		// god stargrid is great
 		#region stargrid quotes
 		"*chuckles* **Your worst nightmare.**",
 		"Stop fucking say I'm alt",
@@ -139,6 +136,8 @@ public class StringList
 		"We are jerkers and groomers and we jerk and we go on and we jerk and",
 		"A lego figure that randomly farts that works as an attatchment with rexmecks attatchments which you cannot take off your gun once you put on",
 		#endregion
+		
+		// random mod.io comments
 		#region mod.io tapeworms
 		"she is a child predator",
 		"shut the fuck up lil [EXTREMELYLOUDINCORRECTBUZZER] go band for band w me rn",
@@ -149,6 +148,8 @@ public class StringList
 		"Oh also change your discord wall lmao",
 		"i bag you can you pls make a 1977 camaro",
 		#endregion
+		
+		// 🔥🔥🔥🔥
 		#region copilot's bangers
 		// these were all fully written by copilot
 		"do you like my car",
@@ -176,6 +177,8 @@ public class StringList
 		"a banana",
 		"qweef",
 		#endregion
+		
+		// 🔥
 		#region BWChaos
 		"iirc there was someone in the bw community that slowly faded away from it and one time i checked their twitter, and they liked a tweet saying 'peeing yourself is super cute' guh, am i right",
 		"thinkin abt the joys of inhaling from a fine cuban smokeable whilst kicking up ones feet in a sun-drenched tropical paradise (like isle delfino)",
@@ -349,6 +352,8 @@ public class StringList
 		"i balled so hard they thought i was a nutsack",
 		"popped a perc 30 got straight to fuckin",
 		#endregion
+		
+		// peak brainrot
 		#region bonelab server
 		"this shit aint nothin to me man\ni'm him, i was him, i'll continue to be him\nsmoking that \"counting all the sheep in the sky, caught up in a whirl of lies\" type pack\nsmoking not just the leaf, we smoke the whole vineyard\nput holy water in the bong, blowing god's bubbles\ni could go blind and i don't care, i don't need to see the price tag\nopps must have amnesia, they forgot i'm him\nchuck e cheese simpsons themed coin pusher pack\nsnorting that glowing rock on the wizard staff shit \ni must be a penguin the way i slide in dms\ncall me tommy, the way i'm waisea with u(r) girl\nshe a baddie to the point that michael jackson lost platinum\nrobert eggars had to call me up, cause my blunts the size of a lighthouse\njesus take the wheel, cause i'm busy making calls\nthese hoes on me so much, i might have to become a farm supply\ni put the color back into monotone\nDB cooper dissapeared, like the opps when i pulled out the switch blicky\nshit banged so hard that asia used it as the model for what you know as a gong\nsmoking that radioactive steam combustion engine pack\nthat purple like the combination of what would be otherwise invisible frequencies on the light spectrum\nthat purple out-purpled grimace mixed with the purple guy\nshit so purple scientists are theorizing on how the human eye has enough rods to process it\nsmoking that radioactive core of plutonium surrounded by 23.3 pounds of titanium carved into a half dome\nthis shit aint nothing to me man",
 		"This account was an experiment lol\nAsterix_ has an average dislike to like % of 93.75\nOragani has an average of 81%\n\nThe whole point of this account was to see if complaints about my mods were purely cause it was connected to the name Oragani and I was 100% right.\nMade pretty much the same types of mods, put in the same effort, same quality, etc. Never got a performance complaint, quality complaint, never got a lot of dislikes on majority of my mods.\n\nI'm gonna go back to modding on my main :ThumbsUp:",
@@ -356,7 +361,37 @@ public class StringList
 		"my VR games? PHYSICS BASED\nmy phones? ANDROID\nmy operating system? LINUX\nmy rendering engine? CYCLES\nmy game engine? UNREAL\nmy twitter? LURKING\nmy albums? VINYL\nmy music? CRUNCHY\nmy rap? MODERN\nmy horror? REALISTIC\nmy depictions of psychosis in movies? REALISTIC\nmy metal? 70S\nmy ships? WHOLESOME \nmy guns? MECHANICAL\nmy tv shows? GRITTY\nmy robotic villains in movies and tv? FUELED BY HATRED\nmy laptop? CUSTOM\nmy watch? MILITARY\nmy eq? BASSY\nmy lightbakes? Line 215 in Verify - Geometry geom c4fab7362f4dc00cea6f77d7ddf7f9cb: Index 45 has value 41 that reads non-finite value nan in channel 4, element 0\nmy movies? CHARACTER DRIVEN\nmy characters? RELATABLE\nmy car? FLAT EDGED\nmy liquor? BLAND\nmy root beer? ROUND\nmy spaces? LIMINAL\nmy godzillas? VIOLENT\nmy dinosaurs? FEATHERED\nmy electro? FRENCH\nmy clowns? CLASSICAL\nmy shirts? VINYL PRINTED\nmy spiders? HARMLESS\nmy mental state? BORDERING ON HOMICIDAL\nmy deoderant? SUBTLE\nmy diving boards? HIGH\nmy pool tables? BLACKLIT\nmy security system? VINTAGE\nmy ability to type the worst shit known to mankind? STRONG\nmy cloaked? HAISE\nmy novels? OUT OF ORDER\nmy hitchikers? GUIDED THROUGH THE GALAXY\nmy dungeon crawlers? PROCEDURAL\nmy burgers? NOTHING\nmy twitter follows? CONTREVERSIAL\nmy edibles? AINT SHIT\nmy drugs? NON ADDICTIVE\nmy bank account? WEALTHY\nmy energy drinks? LIGHT AND DRAWN OUT\nmy text? WALLS\nmy sci-fi? ELABORATE\nmy steam? PUNK\nmy sniper rifles? LIGHT AND AFFORDABLE",
 		"people suck up so hard to brandons nipples like nooo bro that man milk is for ME ONLY :drooling_ahegao:",
 		"no, its stuck to my balls! - cam 2023",
+		"imma keep makeing the best mods bonelab has ever seen, mae and proto can accuse me all day but im makeing unique mods and doing things nobody else has so far so you csnt act like I dont innovare bonelab\n\n\nim done argueing but I encourage poeple to do thier own looking and not just belive what people say",
+		"LETHAL COMPANY NOT ENOUGH PHOTONS VALVE SOFTWARE REFERENCE HAHA BONEWORK S BONE LAB MODDING",
+		// wasnt in BL server but CLOSE ENOUGH!
+		"Half Life: Blue Shift Half Life: Blue Shift Half Life: Blue Shift Half Life: Blue Shift Half Life: Blue Shift Half Life: Blue Shift Half Life: Blue Shift Half Life: Blue Shift Half Life: Blue Shift Half Life: Blue Shift Half Life: Blue Shift Half Life: Blue Shift Half Life: Blue Shift Half Life: Blue Shift Half Life: Blue Shift",
 		#endregion
+		
+		// this guy gets a whole section he says the funniest shit
+		#region extraes
+		"me manipulating my 4 foot long vr e-penis after the 3d model avatar of my clock app says \"its time for you to get some...\" while my friend thomas watches everything happen live via the cast to my google chromecast ultra that i got free as a part of buying the stadia founders edition pack\n",
+		// the grandmas
+		"nexus gives hella ads to users, throttles downloads like shit, limits simultaneous downloads, and killed my grandma",
+		"APFS killed my grandma",
+		"this lil guy killed my grandma have some respect",
+		"this clip killed my grandma",
+		"these probes killed my grandma", // https://cdn.discordapp.com/attachments/724137614793506877/1199499408035819570/image.png?ex=65f0e860&is=65de7360&hm=0e28bbff88356847d3dd7561ca1902174ba6e677412887b4edfd12ebbf21f77e&
+		"these colliders killed my grandma",
+		"hlbs killed my grandma how insensitive of you",
+		"this pizza killed my g", // i didnt cut it off here, he did
+		"camobiwon killed my grandma",
+		"i bet cam killed my grandma",
+		"patch 3 going on the live branch killed my grandma",
+		"A 2003 Acura CL Type-S fuel pump killed my grandma",
+		"i will forever consider your mental faculties diminished for that",
+		"lets see if this is true or gay porn",
+		"its gay porn",
+		"THIS FUCKING SUCKS \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25", // fire emojis
+		"FUCK YOUR PLUNGER",
+		"fuck these trucks",
+		#endregion
+		
+		// they say some funny stuff sometimes
 		#region muse server
 		"tesco is shit but is great",
 		"Henrizzzzzzzzzzzzzzzzzzzzzzzzzzz — 15/09/2023 16:29\nI’ve always said abso may become my favorite if it ever gets a better mixing\nRich Costey — 15/09/2023 16:30\nbrutal\nDoozees — 15/09/2023 16:31\nIt's always been my favourite. However, think I've listened to it so many times that I'm used to the mix now so definitely looking forward to the remaster\nbabymurder(er) — 15/09/2023 16:31\nYeah, it could do with some updating. Absolution and Black Holes definitely gain the most from a remaster.\nCount Biffula — 15/09/2023 16:32\nlooking forward to stockholm syndrome in particular",
@@ -371,7 +406,8 @@ public class StringList
 		"dickpression",
 		"man i wish i knew those frameworks please take my bussy I WANT A FUCKING PENIS",
 		#endregion
-		// honestly these are lame as hell in game.
+		
+		// honestly these are lame as hell in game so they're commented out
 		/* #region fordkiller
 		"wtf why not quheust!!!",
 		"i hat eoyu becaus not quest",
@@ -476,6 +512,8 @@ public class StringList
 		"i would love to play this mod on my Oculus, but no quest vrison means nothin doin. im so pissed.",
 		"this mod is such a disappointment without a quest vrison. i was really lookin foward to playing theis mod but you ar too stupuid to make quest verion.",
 		#endregion */
+		
+		// you should know this guy, or else i'm killing you
 		#region bruno powroznik
 		"OBJECTS IVE SHOVED UP MY ARSE",
 		"I REALLY HATE SIMON FUCKING COWELL",
@@ -492,13 +530,23 @@ public class StringList
 		"DING DONG THE WICKED BITCH IS DEAD",
 		"ITS A SHAME THE BITCH DIDNT DIE 87 YEARS AGO",
 		#endregion
+		
+		// Ham.
 		#region dingus
 		"They shot our face, Johnny! THEY SHOT OUR FACE!",
 		"Who up tugging they gooch",
 		"rabbit — 01/01/2024 4:24 AM\nPrepare ur. Grave.  [EXTREMELYLOUDINCORRECTBUZZER]",
 		"I got a big AR this’ll turn you to piss",
 		"Trailer 1\nTuesday, December 5th\n9AM ET",
-		"YSL cologne bitch, this not Axe"
+		"YSL cologne bitch, this not Axe",
+		#endregion
+		
+		// i let him type on my keyboard
+		#region my cat
+		"bn g",
+		"gf",
+		".n",
+		"etjrh"
 		#endregion
 	};
 	
