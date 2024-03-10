@@ -106,6 +106,7 @@ public class StringList
         "HELLO, GORDON!",
         "oksex",
         "HOTTED BOOBS UP AHEAD, TITS, BIG ONES!",
+        "Don't just lick things!",
 		#endregion
 		
 		// god stargrid is great
@@ -383,6 +384,10 @@ public class StringList
 		"i bet cam killed my grandma",
 		"patch 3 going on the live branch killed my grandma",
 		"A 2003 Acura CL Type-S fuel pump killed my grandma",
+		"this version number killed my grandma",
+        "3 pixel delta killed my grandma",
+		// HOW MANY GRANDMAS DOES THIS MAN HAVE
+        "this site killed my gr corolla",
 		"i will forever consider your mental faculties diminished for that",
 		"lets see if this is true or gay porn",
 		"its gay porn",
